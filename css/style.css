@@ -1077,16 +1077,16 @@ footer label {
   }
 }
 
-/*--------copy rigth & developed by---------*/
-.developed-by {
+/*--------copy rigth & powered by---------*/
+.powered-by {
   font-size: small;
 }
 
-.developed-by a {
+.powered-by a {
   color: #fff;
   text-decoration: underline;
 }
 
-.developed-by a:hover {
+.powered-by a:hover {
   color: #96979b;
 }
